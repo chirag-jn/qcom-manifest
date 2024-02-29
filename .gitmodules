@@ -1,0 +1,32 @@
+[submodule "qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-qcom"]
+	path = qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-qcom
+	url = https://git.yoctoproject.org/meta-qcom
+	branch = kirkstone
+[submodule "qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-openembedded"]
+	path = qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded
+	branch = kirkstone
+[submodule "qcom-6.6.13-QLI.1.0-Ver.1.2/layers/poky"]
+	path = qcom-6.6.13-QLI.1.0-Ver.1.2/layers/poky
+	url = https://git.yoctoproject.org/poky
+	branch = kirkstone
+[submodule "qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-security"]
+	path = qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-security
+	url = https://git.yoctoproject.org/meta-security
+	branch = kirkstone
+[submodule "qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-virtualization"]
+	path = qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-virtualization
+	url = https://git.yoctoproject.org/meta-virtualization
+	branch = kirkstone
+[submodule "qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-selinux"]
+	path = qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-selinux
+	url = https://git.yoctoproject.org/meta-selinux
+	branch = kirkstone
+[submodule "qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-qcom-hwe"]
+	path = qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-qcom-hwe
+	url = https://github.com/quic-yocto/meta-qcom-hwe
+	branch = kirkstone
+[submodule "qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-qcom-distro"]
+	path = qcom-6.6.13-QLI.1.0-Ver.1.2/layers/meta-qcom-distro
+	url = https://github.com/quic-yocto/meta-qcom-distro
+	branch = kirkstone
